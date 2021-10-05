@@ -24,3 +24,9 @@ table {
     border: 5px outset greenyellow;
     
 }
+
+
+
+input {
+    margin: .4rem;
+}
