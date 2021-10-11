@@ -16,6 +16,10 @@ table {
 
 }
 
+.primzahlInFalscherReihenfolge{
+    background-color: orange;
+}
+
 .falscheZahl{
     background-color: red;
 }
@@ -25,8 +29,8 @@ table {
     
 }
 
-
-
-input {
-    margin: .4rem;
+select {
+    width: 30mm;
 }
+
+
